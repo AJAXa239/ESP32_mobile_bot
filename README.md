@@ -7,6 +7,9 @@ and real-time RViz visualization.
 # ESP32 connection
 ![image](20260829_094404.jpg)
 
+# ESP32 mobile bot
+![image](IMG-20260830-WA0014.jpg)
+
 ## Demo
 
 | RViz Visualization | Live Camera Feed | Driving Around |
