@@ -9,7 +9,7 @@ and real-time RViz visualization.
 
 # ESP32 mobile bot
 <p align="center">
-  <img src="IMG-20260830-WA0013.jpg" width="1000" alt="Talos robot car"/>
+  <img src="IMG-20260830-WA0013.jpg" width="800" alt="Talos robot car"/>
 </p>
 
 ## Demo
