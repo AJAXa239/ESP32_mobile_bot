@@ -4,9 +4,8 @@ A ROS2-powered robot car built on an ESP32, controlled over WiFi via micro-ROS â
 with keyboard/joystick teleop, live phone-camera streaming, OpenCV shape detection,
 and real-time RViz visualization.
 
-<p align="center">
-  <img src="docs/images/talos.jpg" width="500" alt="Talos robot car"/>
-</p>
+# ESP32 connection
+![image](20260829_094404.jpg)
 
 ## Demo
 
