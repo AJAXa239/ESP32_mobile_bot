@@ -18,7 +18,7 @@ and real-time RViz visualization.
 
 | RViz Visualization | Live Camera Feed | Driving Around |
 |:---:|:---:|:---:|
-| ![RViz demo](docs/gifs/rviz_demo.gif) | ![Camera demo](YouCut_20260909_092642863.gif) | ![Car moving](docs/gifs/car_moving.gif) |
+| ![RViz demo](docs/gifs/rviz_demo.gif) | ![Camera demo](YouCut_20260909_092642863.gif) | ![Car moving](YouCut_20260909_094326215.gif) |
 
 ## Overview
 
