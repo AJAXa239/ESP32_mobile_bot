@@ -5,11 +5,13 @@ with keyboard/joystick teleop, live phone-camera streaming, OpenCV shape detecti
 and real-time RViz visualization.
 
 # ESP32 connection
-![image](20260829_094404.jpg)
+<p align="center">
+  <img src="20260829_094404.jpg" width="500" alt="Talos robot car"/>
+</p>
 
 # ESP32 mobile bot
 <p align="center">
-  <img src="IMG-20260830-WA0013.jpg" width="800" alt="Talos robot car"/>
+  <img src="IMG-20260830-WA0013.jpg" width="500" alt="Talos robot car"/>
 </p>
 
 ## Demo
