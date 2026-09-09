@@ -8,7 +8,7 @@ and real-time RViz visualization.
 ![image](20260829_094404.jpg)
 
 # ESP32 mobile bot
-![image](20260830_165158.jpg)
+![image](IMG-20260830-WA0013.jpg)
 
 ## Demo
 
