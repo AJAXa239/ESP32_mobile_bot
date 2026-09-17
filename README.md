@@ -15,10 +15,14 @@ and real-time RViz visualization.
 </p>
 
 ## Demo
+# RViz Visualization   
+ ![RViz demo](ezgif-53851b743269f5cf.gif)  
 
-| RViz Visualization | Live Camera Feed | Driving Around |
-|:---:|:---:|:---:|
-| ![RViz demo](ezgif-53851b743269f5cf.gif) | ![Camera demo](YouCut_20260909_092642863.gif) | ![Car moving](YouCut_20260909_094326215.gif) |
+ # Live Camera Feed 
+ ![Camera demo](YouCut_20260909_092642863.gif)
+ 
+ # Driving Around 
+ ![Car moving](YouCut_20260909_094326215.gif) 
 
 ## Overview
 
