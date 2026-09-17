@@ -19,13 +19,13 @@ and real-time RViz visualization.
  ![RViz demo](ezgif-53851b743269f5cf.gif)  
 
  # Live Camera Feed 
- <p align="center">
-  <img src="YouCut_20260909_092642863.gif" width="900" alt="Talos robot car"/>
+ <p align="left">
+  <img src="YouCut_20260909_092642863.gif" width="800" alt="Talos robot car"/>
 </p>
  
  # Driving Around 
-  <p align="center">
-  <img src="YouCut_20260909_094326215.gif" width="900" alt="Talos robot car"/>
+  <p align="left">
+  <img src="YouCut_20260909_094326215.gif" width="800" alt="Talos robot car"/>
 </p>
 
 ## Overview
